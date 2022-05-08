@@ -64,8 +64,8 @@ The new Git repository is now at GitHub under https://github.com/schwabe/ics-ope
 Please read the doc/README before asking questions or starting development.
 
 
-//topic
+//topic covered
 Requirement
  - username, pass, ip address> get data from API[server list]
-topic> 
+===topic-----
 AIDL, Android CPU architecture, Open connect, tv, tablet, wear, socket, how work vpn, vpn encryption
