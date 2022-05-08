@@ -62,3 +62,10 @@ The old official or main repository was a Mercurial (hg) repository at http://co
 The new Git repository is now at GitHub under https://github.com/schwabe/ics-openvpn
 
 Please read the doc/README before asking questions or starting development.
+
+
+//topic
+Requirement
+ - username, pass, ip address> get data from API[server list]
+topic> 
+AIDL, Android CPU architecture, Open connect, tv, tablet, wear, socket, how work vpn, vpn encryption
